@@ -65,9 +65,7 @@ AppAsset::register($this);
     </div>
 </div>
 
-<footer class="footer" align="center">
-    <?= Yii::$app->params['siteName'] ?>
-</footer>
+
 
 <?php $this->endBody() ?>
 </body>

@@ -29,6 +29,10 @@ class ComposerStaticInita679dbfd3e1e83a244a2ca85e0a627cb
         array (
             'phpDocumentor\\Reflection\\' => 25,
         ),
+        'k' => 
+        array (
+            'kv4nt\\owlcarousel\\' => 18,
+        ),
         'c' => 
         array (
             'cebe\\markdown\\' => 14,
@@ -106,9 +110,13 @@ class ComposerStaticInita679dbfd3e1e83a244a2ca85e0a627cb
         ),
         'phpDocumentor\\Reflection\\' => 
         array (
-            0 => __DIR__ . '/..' . '/phpdocumentor/reflection-common/src',
-            1 => __DIR__ . '/..' . '/phpdocumentor/type-resolver/src',
-            2 => __DIR__ . '/..' . '/phpdocumentor/reflection-docblock/src',
+            0 => __DIR__ . '/..' . '/phpdocumentor/type-resolver/src',
+            1 => __DIR__ . '/..' . '/phpdocumentor/reflection-docblock/src',
+            2 => __DIR__ . '/..' . '/phpdocumentor/reflection-common/src',
+        ),
+        'kv4nt\\owlcarousel\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/kv4nt/yii2-owl-carousel2',
         ),
         'cebe\\markdown\\' => 
         array (
