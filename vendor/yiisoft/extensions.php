@@ -57,4 +57,13 @@ return array (
       '@kv4nt/owlcarousel' => $vendorDir . '/kv4nt/yii2-owl-carousel2',
     ),
   ),
+  'kop/yii2-scroll-pager' => 
+  array (
+    'name' => 'kop/yii2-scroll-pager',
+    'version' => '9999999-dev',
+    'alias' => 
+    array (
+      '@kop/y2sp' => $vendorDir . '/kop/yii2-scroll-pager',
+    ),
+  ),
 );

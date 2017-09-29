@@ -32,6 +32,7 @@ class ComposerStaticInita679dbfd3e1e83a244a2ca85e0a627cb
         'k' => 
         array (
             'kv4nt\\owlcarousel\\' => 18,
+            'kop\\y2sp\\' => 9,
         ),
         'c' => 
         array (
@@ -117,6 +118,10 @@ class ComposerStaticInita679dbfd3e1e83a244a2ca85e0a627cb
         'kv4nt\\owlcarousel\\' => 
         array (
             0 => __DIR__ . '/..' . '/kv4nt/yii2-owl-carousel2',
+        ),
+        'kop\\y2sp\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/kop/yii2-scroll-pager',
         ),
         'cebe\\markdown\\' => 
         array (
